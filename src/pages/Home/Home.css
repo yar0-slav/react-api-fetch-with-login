@@ -1,0 +1,7 @@
+button[data-editbutton="edit-button"] {
+    display: none;
+  }
+  
+  td:hover button[data-editbutton="edit-button"] {
+    display: flex;
+  }
