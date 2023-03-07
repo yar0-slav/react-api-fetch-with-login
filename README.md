@@ -2,7 +2,7 @@
 
 Quick start
 ```
-git clone https://github.com/yar0-slav/react-login-and-put-api.git
+git clone https://github.com/yar0-slav/react-api-fetch-with-login.git
 ```
 
 ```
